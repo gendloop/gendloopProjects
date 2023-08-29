@@ -1,0 +1,4 @@
+[submodule "Perl"]
+	path = Perl
+	url = https://github.com/gendloop/Perl
+	branch = main
