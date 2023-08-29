@@ -6,3 +6,7 @@
 	path = CMake
 	url = https://github.com/gendloop/CMake
 	branch = main
+[submodule "QtCreator"]
+	path = QtCreator
+	url = https://github.com/gendloop/QtCreator
+	branch = main
