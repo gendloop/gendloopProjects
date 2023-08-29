@@ -2,3 +2,7 @@
 	path = Perl
 	url = https://github.com/gendloop/Perl
 	branch = main
+[submodule "CMake"]
+	path = CMake
+	url = https://github.com/gendloop/CMake
+	branch = main
