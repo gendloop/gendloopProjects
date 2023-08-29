@@ -10,3 +10,7 @@
 	path = QtCreator
 	url = https://github.com/gendloop/QtCreator
 	branch = main
+[submodule "English"]
+	path = English
+	url = https://github.com/gendloop/English
+	branch = main
