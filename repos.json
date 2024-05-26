@@ -7,12 +7,12 @@
   "description": "Linux 教程笔记"
 }
 {
-  "name": "Jekyll",
-  "description": "Jekyll 教程笔记"
-}
-{
   "name": "qmake",
   "description": "qmake Manual"
+}
+{
+  "name": "Jekyll",
+  "description": "Jekyll 教程笔记"
 }
 {
   "name": "CMake",
