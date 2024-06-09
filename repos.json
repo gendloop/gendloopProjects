@@ -3,18 +3,18 @@
   "description": "Perl 教程笔记"
 }
 {
-  "name": "qmake",
-  "description": "qmake Manual"
+  "name": "Linux",
+  "description": "Linux 教程笔记"
 }
 {
   "name": "Jekyll",
   "description": "Jekyll 教程笔记"
 }
 {
-  "name": "Linux",
-  "description": "Linux 教程笔记"
-}
-{
   "name": "CMake",
   "description": "CMake 教程笔记"
+}
+{
+  "name": "qmake",
+  "description": "qmake Manual"
 }
