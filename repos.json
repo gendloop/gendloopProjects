@@ -1,18 +1,22 @@
 {
+  "name": "Jekyll",
+  "description": "Jekyll 教程笔记"
+}
+{
   "name": "Perl",
   "description": "Perl 教程笔记"
+}
+{
+  "name": "CMake",
+  "description": "CMake 教程笔记"
 }
 {
   "name": "Linux",
   "description": "Linux 教程笔记"
 }
 {
-  "name": "Jekyll",
-  "description": "Jekyll 教程笔记"
-}
-{
-  "name": "CMake",
-  "description": "CMake 教程笔记"
+  "name": "LaTeX",
+  "description": "LaTeX 教程笔记"
 }
 {
   "name": "qmake",
