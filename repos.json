@@ -1,10 +1,10 @@
 {
-  "name": "Jekyll",
-  "description": "Jekyll 教程笔记"
-}
-{
   "name": "Perl",
   "description": "Perl 教程笔记"
+}
+{
+  "name": "Jekyll",
+  "description": "Jekyll 教程笔记"
 }
 {
   "name": "CMake",
