@@ -1,6 +1,22 @@
 {
+  "name": "YuQueKnowledgeBases",
+  "description": "语雀花园内公开的知识库(没会员时备用)"
+}
+{
+  "name": "Notations",
+  "description": "简谱"
+}
+{
   "name": "Perl",
   "description": "Perl 教程笔记"
+}
+{
+  "name": "CMake",
+  "description": "CMake 教程笔记"
+}
+{
+  "name": "test2",
+  "description": null
 }
 {
   "name": "Jekyll",
@@ -15,8 +31,8 @@
   "description": "LaTeX 教程笔记"
 }
 {
-  "name": "CMake",
-  "description": "CMake 教程笔记"
+  "name": "gitbook-node_modules",
+  "description": "gitbook 需要的 npm 包"
 }
 {
   "name": "qmake",
