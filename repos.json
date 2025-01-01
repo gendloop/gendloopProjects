@@ -3,32 +3,24 @@
   "description": "语雀花园内公开的知识库(没会员时备用)"
 }
 {
-  "name": "Blog",
-  "description": "个人博客"
-}
-{
-  "name": "hexo-guide",
-  "description": "hexo 学习笔记"
+  "name": "Notations",
+  "description": "简谱"
 }
 {
   "name": "Perl",
   "description": "Perl 教程笔记"
 }
 {
-  "name": "Notations",
-  "description": "简谱"
-}
-{
   "name": "Jekyll",
   "description": "Jekyll 教程笔记"
 }
 {
-  "name": "Linux",
-  "description": "Linux 教程笔记"
+  "name": "Blog",
+  "description": "个人博客"
 }
 {
-  "name": "LaTeX",
-  "description": "LaTeX 教程笔记"
+  "name": "hexo-guide",
+  "description": "hexo 学习笔记"
 }
 {
   "name": "CMake",
@@ -39,14 +31,26 @@
   "description": null
 }
 {
-  "name": "gitbook-node_modules",
-  "description": "gitbook 需要的 npm 包"
+  "name": "GitBookPlugins",
+  "description": "GitBook 插件用法"
+}
+{
+  "name": "qmake",
+  "description": "qmake Manual"
 }
 {
   "name": "AlgorithmPractice",
   "description": "算法回顾和练习"
 }
 {
-  "name": "qmake",
-  "description": "qmake Manual"
+  "name": "gitbook-node_modules",
+  "description": "gitbook 需要的 npm 包"
+}
+{
+  "name": "Linux",
+  "description": "Linux 教程笔记"
+}
+{
+  "name": "LaTeX",
+  "description": "LaTeX 教程笔记"
 }
