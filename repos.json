@@ -1,6 +1,10 @@
 {
-  "name": "YuQueKnowledgeBases",
-  "description": "语雀花园内公开的知识库(没会员时备用)"
+  "name": "hexo-guide",
+  "description": "hexo 学习笔记"
+}
+{
+  "name": "Blog",
+  "description": "个人博客"
 }
 {
   "name": "Notations",
@@ -11,16 +15,12 @@
   "description": "Perl 教程笔记"
 }
 {
+  "name": "YuQueKnowledgeBases",
+  "description": "语雀花园内公开的知识库(没会员时备用)"
+}
+{
   "name": "Jekyll",
   "description": "Jekyll 教程笔记"
-}
-{
-  "name": "Blog",
-  "description": "个人博客"
-}
-{
-  "name": "hexo-guide",
-  "description": "hexo 学习笔记"
 }
 {
   "name": "CMake",
@@ -35,8 +35,12 @@
   "description": "GitBook 插件用法"
 }
 {
-  "name": "qmake",
-  "description": "qmake Manual"
+  "name": "Linux",
+  "description": "Linux 教程笔记"
+}
+{
+  "name": "LaTeX",
+  "description": "LaTeX 教程笔记"
 }
 {
   "name": "AlgorithmPractice",
@@ -47,10 +51,6 @@
   "description": "gitbook 需要的 npm 包"
 }
 {
-  "name": "Linux",
-  "description": "Linux 教程笔记"
-}
-{
-  "name": "LaTeX",
-  "description": "LaTeX 教程笔记"
+  "name": "qmake",
+  "description": "qmake Manual"
 }
