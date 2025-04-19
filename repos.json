@@ -7,28 +7,28 @@
   "description": "Tales"
 }
 {
-  "name": "Perl",
-  "description": "Perl 教程笔记"
+  "name": "Frontend",
+  "description": "前端学习记录"
 }
 {
   "name": "hexo-guide",
   "description": "hexo 学习笔记"
 }
 {
-  "name": "Frontend",
-  "description": "前端学习记录"
-}
-{
   "name": "Blog",
   "description": "个人博客"
 }
 {
-  "name": "QtCreator",
-  "description": "QtCreator快速入门(第三版) 教程笔记"
+  "name": "Perl",
+  "description": "Perl 教程笔记"
 }
 {
-  "name": "English",
-  "description": "英语学习笔记"
+  "name": "Jekyll",
+  "description": "Jekyll 教程笔记"
+}
+{
+  "name": "YuQueKnowledgeBases",
+  "description": "语雀花园内公开的知识库(没会员时备用)"
 }
 {
   "name": "Internalize",
@@ -39,12 +39,24 @@
   "description": "设计模式教程笔记"
 }
 {
+  "name": "work-summary-2023",
+  "description": "2023年工作总结"
+}
+{
   "name": "Love",
   "description": "恋爱记录"
 }
 {
-  "name": "work-summary-2023",
-  "description": "2023年工作总结"
+  "name": "LaTeX",
+  "description": "LaTeX 教程笔记"
+}
+{
+  "name": "Linux",
+  "description": "Linux 教程笔记"
+}
+{
+  "name": "HomeDesign",
+  "description": "家居设计"
 }
 {
   "name": "CMake",
@@ -55,12 +67,12 @@
   "description": "GitBook 插件用法"
 }
 {
-  "name": "YuQueKnowledgeBases",
-  "description": "语雀花园内公开的知识库(没会员时备用)"
+  "name": "QtCreator",
+  "description": "QtCreator快速入门(第三版) 教程笔记"
 }
 {
-  "name": "Jekyll",
-  "description": "Jekyll 教程笔记"
+  "name": "English",
+  "description": "英语学习笔记"
 }
 {
   "name": "ComputerAlgorithmDesignAndAnalysis",
@@ -81,16 +93,4 @@
 {
   "name": "gitbook-node_modules",
   "description": "gitbook 需要的 npm 包"
-}
-{
-  "name": "HomeDesign",
-  "description": "家居设计"
-}
-{
-  "name": "LaTeX",
-  "description": "LaTeX 教程笔记"
-}
-{
-  "name": "Linux",
-  "description": "Linux 教程笔记"
 }
