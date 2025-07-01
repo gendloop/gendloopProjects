@@ -11,12 +11,16 @@
   "description": "前端学习记录"
 }
 {
-  "name": "GitBookPlugins",
-  "description": "GitBook 插件用法"
+  "name": "Perl",
+  "description": "Perl 教程笔记"
 }
 {
-  "name": "CMake",
-  "description": "CMake 教程笔记"
+  "name": "DesignPatterns",
+  "description": "设计模式总结与回顾"
+}
+{
+  "name": "qmake",
+  "description": "qmake Manual"
 }
 {
   "name": "YuQueKnowledgeBases",
@@ -27,12 +31,8 @@
   "description": "LaTeX 教程笔记"
 }
 {
-  "name": "qmake",
-  "description": "qmake Manual"
-}
-{
-  "name": "Perl",
-  "description": "Perl 教程笔记"
+  "name": "Docker",
+  "description": "Docker 学习笔记"
 }
 {
   "name": "Linux",
@@ -49,4 +49,12 @@
 {
   "name": "gitbook-node_modules",
   "description": "gitbook 需要的 npm 包"
+}
+{
+  "name": "CMake",
+  "description": "CMake 教程笔记"
+}
+{
+  "name": "GitBookPlugins",
+  "description": "GitBook 插件用法"
 }
