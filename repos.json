@@ -3,6 +3,10 @@
   "description": "简谱"
 }
 {
+  "name": "DesignPatterns",
+  "description": "设计模式总结与回顾"
+}
+{
   "name": "hexo-guide",
   "description": "hexo 学习笔记"
 }
@@ -11,32 +15,28 @@
   "description": "前端学习记录"
 }
 {
-  "name": "Perl",
-  "description": "Perl 教程笔记"
-}
-{
-  "name": "DesignPatterns",
-  "description": "设计模式总结与回顾"
-}
-{
-  "name": "qmake",
-  "description": "qmake Manual"
-}
-{
   "name": "YuQueKnowledgeBases",
   "description": "语雀花园内公开的知识库(没会员时备用)"
 }
 {
-  "name": "LaTeX",
-  "description": "LaTeX 教程笔记"
+  "name": "Perl",
+  "description": "Perl 教程笔记"
+}
+{
+  "name": "Linux",
+  "description": "Linux 教程笔记"
 }
 {
   "name": "Docker",
   "description": "Docker 学习笔记"
 }
 {
-  "name": "Linux",
-  "description": "Linux 教程笔记"
+  "name": "qmake",
+  "description": "qmake Manual"
+}
+{
+  "name": "LaTeX",
+  "description": "LaTeX 教程笔记"
 }
 {
   "name": "Jekyll",
