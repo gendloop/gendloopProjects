@@ -3,10 +3,6 @@
   "description": "简谱"
 }
 {
-  "name": "Docker",
-  "description": "Docker 学习笔记"
-}
-{
   "name": "YuQueKnowledgeBases",
   "description": "语雀花园内公开的知识库(没会员时备用)"
 }
@@ -15,20 +11,20 @@
   "description": "Perl 教程笔记"
 }
 {
-  "name": "AlgorithmPractice",
-  "description": "算法回顾和练习"
+  "name": "Docker",
+  "description": "Docker 学习笔记"
 }
 {
-  "name": "gitbook-node_modules",
-  "description": "gitbook 需要的 npm 包"
-}
-{
-  "name": "English",
-  "description": "英语学习笔记"
+  "name": "3rdParty",
+  "description": "三方库零碎记录"
 }
 {
   "name": "DesignPatterns",
   "description": "设计模式总结与回顾"
+}
+{
+  "name": "qmake",
+  "description": "qmake Manual"
 }
 {
   "name": "hexo-guide",
@@ -39,6 +35,14 @@
   "description": "前端学习记录"
 }
 {
+  "name": "Linux",
+  "description": "Linux 学习笔记"
+}
+{
+  "name": "English",
+  "description": "英语学习笔记"
+}
+{
   "name": "CMake",
   "description": "CMake 教程笔记"
 }
@@ -47,20 +51,16 @@
   "description": "GitBook 插件用法"
 }
 {
-  "name": "qmake",
-  "description": "qmake Manual"
-}
-{
-  "name": "Linux",
-  "description": "Linux 学习笔记"
-}
-{
   "name": "LaTeX",
   "description": "LaTeX 教程笔记"
 }
 {
-  "name": "3rdParty",
-  "description": "三方库零碎记录"
+  "name": "AlgorithmPractice",
+  "description": "算法回顾和练习"
+}
+{
+  "name": "gitbook-node_modules",
+  "description": "gitbook 需要的 npm 包"
 }
 {
   "name": "Jekyll",
