@@ -3,44 +3,20 @@
   "description": "简谱"
 }
 {
-  "name": "Nginx",
-  "description": "Nginx 学习笔记"
-}
-{
   "name": "Perl",
   "description": "Perl 教程笔记"
+}
+{
+  "name": "Nginx",
+  "description": "Nginx 学习笔记"
 }
 {
   "name": "DesignPatterns",
   "description": "设计模式总结与回顾"
 }
 {
-  "name": "English",
-  "description": "英语学习笔记"
-}
-{
-  "name": "Frontend",
-  "description": "前端学习记录"
-}
-{
-  "name": "hexo",
-  "description": "hexo 学习笔记"
-}
-{
   "name": "3rdParty",
   "description": "三方库零碎记录"
-}
-{
-  "name": "Docker",
-  "description": "Docker 学习笔记"
-}
-{
-  "name": "LaTeX",
-  "description": "LaTeX 教程笔记"
-}
-{
-  "name": "qmake",
-  "description": "qmake Manual"
 }
 {
   "name": "CMake",
@@ -51,8 +27,24 @@
   "description": "GitBook 插件用法"
 }
 {
-  "name": "Linux",
-  "description": "Linux 学习笔记"
+  "name": "LaTeX",
+  "description": "LaTeX 教程笔记"
+}
+{
+  "name": "Docker",
+  "description": "Docker 学习笔记"
+}
+{
+  "name": "qmake",
+  "description": "qmake Manual"
+}
+{
+  "name": "Frontend",
+  "description": "前端学习记录"
+}
+{
+  "name": "hexo",
+  "description": "hexo 学习笔记"
 }
 {
   "name": "gitbook-node_modules",
@@ -63,10 +55,22 @@
   "description": "算法回顾和练习"
 }
 {
-  "name": "Jekyll",
-  "description": "Jekyll 教程笔记"
+  "name": "English",
+  "description": "英语学习笔记"
 }
 {
   "name": "DealHunter",
   "description": "薅羊毛"
+}
+{
+  "name": "Jekyll",
+  "description": "Jekyll 教程笔记"
+}
+{
+  "name": "LearningNotes",
+  "description": "学习笔记"
+}
+{
+  "name": "Linux",
+  "description": "Linux 学习笔记"
 }
