@@ -3,8 +3,16 @@
   "description": "简谱"
 }
 {
+  "name": "LearningNotes",
+  "description": "学习笔记"
+}
+{
   "name": "Perl",
   "description": "Perl 教程笔记"
+}
+{
+  "name": "Docker",
+  "description": "Docker 学习笔记"
 }
 {
   "name": "Nginx",
@@ -15,28 +23,12 @@
   "description": "设计模式总结与回顾"
 }
 {
-  "name": "3rdParty",
-  "description": "三方库零碎记录"
-}
-{
-  "name": "CMake",
-  "description": "CMake 教程笔记"
-}
-{
-  "name": "GitBookPlugins",
-  "description": "GitBook 插件用法"
-}
-{
   "name": "LaTeX",
   "description": "LaTeX 教程笔记"
 }
 {
-  "name": "Docker",
-  "description": "Docker 学习笔记"
-}
-{
-  "name": "qmake",
-  "description": "qmake Manual"
+  "name": "3rdParty",
+  "description": "三方库零碎记录"
 }
 {
   "name": "Frontend",
@@ -47,6 +39,18 @@
   "description": "hexo 学习笔记"
 }
 {
+  "name": "qmake",
+  "description": "qmake Manual"
+}
+{
+  "name": "CMake",
+  "description": "CMake 教程笔记"
+}
+{
+  "name": "GitBookPlugins",
+  "description": "GitBook 插件用法"
+}
+{
   "name": "gitbook-node_modules",
   "description": "gitbook 需要的 npm 包"
 }
@@ -55,20 +59,12 @@
   "description": "算法回顾和练习"
 }
 {
-  "name": "English",
-  "description": "英语学习笔记"
-}
-{
-  "name": "DealHunter",
-  "description": "薅羊毛"
-}
-{
   "name": "Jekyll",
   "description": "Jekyll 教程笔记"
 }
 {
-  "name": "LearningNotes",
-  "description": "学习笔记"
+  "name": "DealHunter",
+  "description": "薅羊毛"
 }
 {
   "name": "Linux",
