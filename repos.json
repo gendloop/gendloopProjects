@@ -39,12 +39,16 @@
   "description": "GitBook 插件用法"
 }
 {
-  "name": "Frontend",
-  "description": "前端学习记录"
+  "name": "IdleFish",
+  "description": "闲鱼平台文案模板"
 }
 {
-  "name": "hexo",
-  "description": "hexo 学习笔记"
+  "name": "qmake",
+  "description": "qmake Manual"
+}
+{
+  "name": "LaTeX",
+  "description": "LaTeX 教程笔记"
 }
 {
   "name": "gitbook-node_modules",
@@ -55,22 +59,26 @@
   "description": "算法回顾和练习"
 }
 {
-  "name": "qmake",
-  "description": "qmake Manual"
+  "name": "Frontend",
+  "description": "前端学习记录"
 }
 {
-  "name": "DealHunter",
-  "description": "薅羊毛"
-}
-{
-  "name": "Jekyll",
-  "description": "Jekyll 教程笔记"
+  "name": "hexo",
+  "description": "hexo 学习笔记"
 }
 {
   "name": "Linux",
   "description": "Linux 学习笔记"
 }
 {
-  "name": "LaTeX",
-  "description": "LaTeX 教程笔记"
+  "name": "RuanKao",
+  "description": "中国计算机软件资格考试(软考)"
+}
+{
+  "name": "Jekyll",
+  "description": "Jekyll 教程笔记"
+}
+{
+  "name": "DealHunter",
+  "description": "薅羊毛"
 }
