@@ -11,16 +11,28 @@
   "description": "Perl 教程笔记"
 }
 {
-  "name": "Nginx",
-  "description": "Nginx 学习笔记"
+  "name": "DesignPatterns",
+  "description": "设计模式总结与回顾"
 }
 {
   "name": "Docker",
   "description": "Docker 学习笔记"
 }
 {
-  "name": "DesignPatterns",
-  "description": "设计模式总结与回顾"
+  "name": "Nginx",
+  "description": "Nginx 学习笔记"
+}
+{
+  "name": "GitBookPlugins",
+  "description": "GitBook 插件用法"
+}
+{
+  "name": "CMake",
+  "description": "CMake 教程笔记"
+}
+{
+  "name": "IdleFish",
+  "description": "闲鱼平台文案模板"
 }
 {
   "name": "3rdParty",
@@ -29,26 +41,6 @@
 {
   "name": "PriceTracker",
   "description": "商品价格跟踪"
-}
-{
-  "name": "CMake",
-  "description": "CMake 教程笔记"
-}
-{
-  "name": "GitBookPlugins",
-  "description": "GitBook 插件用法"
-}
-{
-  "name": "IdleFish",
-  "description": "闲鱼平台文案模板"
-}
-{
-  "name": "qmake",
-  "description": "qmake Manual"
-}
-{
-  "name": "LaTeX",
-  "description": "LaTeX 教程笔记"
 }
 {
   "name": "gitbook-node_modules",
@@ -67,18 +59,26 @@
   "description": "hexo 学习笔记"
 }
 {
-  "name": "Linux",
-  "description": "Linux 学习笔记"
-}
-{
-  "name": "RuanKao",
-  "description": "中国计算机软件资格考试(软考)"
-}
-{
   "name": "Jekyll",
   "description": "Jekyll 教程笔记"
 }
 {
   "name": "DealHunter",
   "description": "薅羊毛"
+}
+{
+  "name": "qmake",
+  "description": "qmake Manual"
+}
+{
+  "name": "LaTeX",
+  "description": "LaTeX 教程笔记"
+}
+{
+  "name": "Linux",
+  "description": "Linux 学习笔记"
+}
+{
+  "name": "RuanKao",
+  "description": "中国计算机软件资格考试(软考)"
 }
