@@ -11,8 +11,20 @@
   "description": "Perl 教程笔记"
 }
 {
-  "name": "DesignPatterns",
-  "description": "设计模式总结与回顾"
+  "name": "3rdParty",
+  "description": "三方库零碎记录"
+}
+{
+  "name": "PriceTracker",
+  "description": "商品价格跟踪"
+}
+{
+  "name": "CMake",
+  "description": "CMake 教程笔记"
+}
+{
+  "name": "GitBookPlugins",
+  "description": "GitBook 插件用法"
 }
 {
   "name": "Docker",
@@ -23,32 +35,20 @@
   "description": "Nginx 学习笔记"
 }
 {
-  "name": "GitBookPlugins",
-  "description": "GitBook 插件用法"
-}
-{
-  "name": "CMake",
-  "description": "CMake 教程笔记"
+  "name": "qmake",
+  "description": "qmake Manual"
 }
 {
   "name": "IdleFish",
   "description": "闲鱼平台文案模板"
 }
 {
-  "name": "3rdParty",
-  "description": "三方库零碎记录"
+  "name": "DesignPatterns",
+  "description": "设计模式总结与回顾"
 }
 {
-  "name": "PriceTracker",
-  "description": "商品价格跟踪"
-}
-{
-  "name": "gitbook-node_modules",
-  "description": "gitbook 需要的 npm 包"
-}
-{
-  "name": "AlgorithmPractice",
-  "description": "算法回顾和练习"
+  "name": "LaTeX",
+  "description": "LaTeX 教程笔记"
 }
 {
   "name": "Frontend",
@@ -59,20 +59,20 @@
   "description": "hexo 学习笔记"
 }
 {
+  "name": "gitbook-node_modules",
+  "description": "gitbook 需要的 npm 包"
+}
+{
+  "name": "AlgorithmPractice",
+  "description": "算法回顾和练习"
+}
+{
   "name": "Jekyll",
   "description": "Jekyll 教程笔记"
 }
 {
   "name": "DealHunter",
   "description": "薅羊毛"
-}
-{
-  "name": "qmake",
-  "description": "qmake Manual"
-}
-{
-  "name": "LaTeX",
-  "description": "LaTeX 教程笔记"
 }
 {
   "name": "Linux",
