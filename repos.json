@@ -11,8 +11,16 @@
   "description": "Perl 教程笔记"
 }
 {
-  "name": "Docker",
-  "description": "Docker 学习笔记"
+  "name": "3rdParty",
+  "description": "三方库零碎记录"
+}
+{
+  "name": "PriceTracker",
+  "description": "商品价格跟踪"
+}
+{
+  "name": "Nginx",
+  "description": "Nginx 学习笔记"
 }
 {
   "name": "CMake",
@@ -23,32 +31,20 @@
   "description": "GitBook 插件用法"
 }
 {
-  "name": "Nginx",
-  "description": "Nginx 学习笔记"
-}
-{
-  "name": "DesignPatterns",
-  "description": "设计模式总结与回顾"
-}
-{
-  "name": "3rdParty",
-  "description": "三方库零碎记录"
-}
-{
-  "name": "PriceTracker",
-  "description": "商品价格跟踪"
+  "name": "Docker",
+  "description": "Docker 学习笔记"
 }
 {
   "name": "qmake",
   "description": "qmake Manual"
 }
 {
-  "name": "IdleFish",
-  "description": "闲鱼平台文案模板"
+  "name": "Linux",
+  "description": "Linux 学习笔记"
 }
 {
-  "name": "LaTeX",
-  "description": "LaTeX 教程笔记"
+  "name": "RuanKao",
+  "description": "中国计算机软件资格考试(软考)"
 }
 {
   "name": "DealHunter",
@@ -59,12 +55,8 @@
   "description": "Jekyll 教程笔记"
 }
 {
-  "name": "Frontend",
-  "description": "前端学习记录"
-}
-{
-  "name": "hexo",
-  "description": "hexo 学习笔记"
+  "name": "IdleFish",
+  "description": "闲鱼平台文案模板"
 }
 {
   "name": "gitbook-node_modules",
@@ -75,10 +67,18 @@
   "description": "算法回顾和练习"
 }
 {
-  "name": "Linux",
-  "description": "Linux 学习笔记"
+  "name": "Frontend",
+  "description": "前端学习记录"
 }
 {
-  "name": "RuanKao",
-  "description": "中国计算机软件资格考试(软考)"
+  "name": "hexo",
+  "description": "hexo 学习笔记"
+}
+{
+  "name": "LaTeX",
+  "description": "LaTeX 教程笔记"
+}
+{
+  "name": "DesignPatterns",
+  "description": "设计模式总结与回顾"
 }
